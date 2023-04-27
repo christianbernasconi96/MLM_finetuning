@@ -1,0 +1,7 @@
+**/venv
+**/__pycache__
+**/wandb
+**/log/*/
+**/model/*/
+**/evaluation/*/
+run.sh

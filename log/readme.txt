@@ -1,0 +1,1 @@
+The log files containing the documents used for train and validation will be saved in this directory.
